@@ -1,2 +1,2 @@
 # Saliency-Maps
-How to show saliency maps using Flashtorch toolkit
+How to show and analyze saliency maps using Flashtorch toolkit
